@@ -3,6 +3,7 @@
 import os
 import sys
 
+#checking
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'student_management_system.settings')
